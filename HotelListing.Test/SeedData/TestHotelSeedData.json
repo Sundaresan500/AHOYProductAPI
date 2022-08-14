@@ -1,10 +1,23 @@
 [
     {
-        "BookName": "The Colour of Magic",
-        "BookOrdinal": "1",
-        "BookIsbn10": "086140324X",
-        "BookIsbn13": "9780552138932",
-	    "BookDescription": "On a world supported on the back of a giant turtle (sex unknown), a gleeful, explosive, wickedly eccentric expedition sets out. There's an avaricious but inept wizard, a naive tourist whose luggage moves on hundreds of dear little legs, dragons who only exist if you believe in them, and of course THE EDGE of the planet ...",
-        "BookCoverImageUrl": "https://wiki.lspace.org/File:Cover_The_Colour_Of_Magic.jpg"
+        "Id": 1,
+        "Address": "Negril",
+        "CountryId": 1,
+        "Name": "Sandals Resort and Spa",
+	    "Rating": 4.5
+    },
+    {
+        "Id" : 2,
+        "Address" : "George Town",
+        "CountryId" : 3,
+        "Name" : "Comfort Suites",
+        "Rating" : 4.2999999999999998
+    },
+    {
+        "Id" : 3,
+        "Address" : "Nassua",
+        "CountryId" : 2,
+        "Name" : "Grand Palldium",
+        "Rating" : 4.0
     }
 ]
